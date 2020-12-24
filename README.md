@@ -1,3 +1,5 @@
 # Majmahulbarain
 School Management webapp
-blahblahbla!!!!!!!!!!!!!!!
+
+Wahoo !!!!
+Git is tested and working well with Visual studio in connecting to github
